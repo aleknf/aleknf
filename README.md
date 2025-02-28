@@ -16,7 +16,7 @@
 📬 Let's Connect
 📫 Feel free to reach out and start a conversation!
 😄 Pronouns: he/him
-🌈 Open to networking and knowledge sharing
-⚡ Fun Tidbit
+⚡ Open to networking and knowledge sharing
+
 Always ready with a tech joke or an interesting random fact!
 
