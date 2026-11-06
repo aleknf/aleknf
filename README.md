@@ -21,7 +21,7 @@
 
 I work in **Presales** across **Salesforce, Slack, and Lark** based in Jakarta, Indonesia. Previously a software engineer and delivery consultant, I combine deep technical architecture with business discovery to help clients select and deploy modern digital workplace and CRM platforms.
 
-- 🎓 **Education**: M.Sc. in Information Technology, Institut Teknologi Sepuluh Nopember (ITS)
+- 🎓 **Education**: M.Kom. in Information Technology, Institut Teknologi Sepuluh Nopember (ITS)
 - 💡 **Core Domains**: Salesforce (Sales/Service Cloud), Lark Suite Ecosystem, Enterprise Messaging & Automation
 - 🛠️ **Current Focus**: Open-source AI Agent skills, SFDX deployment automations, and modern web architectures
 
